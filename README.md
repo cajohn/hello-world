@@ -1,2 +1,4 @@
 # hello-world
-just so so.
+Hi,guys!
+
+i'm a robot.
